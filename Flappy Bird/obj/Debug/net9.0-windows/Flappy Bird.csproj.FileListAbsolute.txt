@@ -1,0 +1,17 @@
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net9.0-windows\Flappy Bird.exe
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net9.0-windows\Flappy Bird.deps.json
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net9.0-windows\Flappy Bird.runtimeconfig.json
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net9.0-windows\Flappy Bird.dll
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net9.0-windows\Flappy Bird.pdb
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy_Bird.Form1.resources
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy_Bird.Properties.Resources.resources
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.AssemblyInfoInputs.cache
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.AssemblyInfo.cs
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.dll
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\refint\Flappy Bird.dll
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.pdb
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\Flappy Bird.genruntimeconfig.cache
+C:\Users\leroi\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net9.0-windows\ref\Flappy Bird.dll
